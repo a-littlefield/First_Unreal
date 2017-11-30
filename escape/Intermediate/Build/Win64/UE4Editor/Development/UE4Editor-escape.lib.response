@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-escape.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Users\Andrew\Documents\UnrealCoarse\repos\Building_Escape\escape\Intermediate\Build\Win64\UE4Editor\Development\escape\escape.cpp.obj"
+"E:\Users\Andrew\Documents\UnrealCoarse\repos\Building_Escape\escape\Intermediate\Build\Win64\UE4Editor\Development\escape\escapeGameModeBase.cpp.obj"
+"E:\Users\Andrew\Documents\UnrealCoarse\repos\Building_Escape\escape\Intermediate\Build\Win64\UE4Editor\Development\escape\escape.init.gen.cpp.obj"
+"E:\Users\Andrew\Documents\UnrealCoarse\repos\Building_Escape\escape\Intermediate\Build\Win64\UE4Editor\Development\escape\escapeGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\escape\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Users\Andrew\Documents\UnrealCoarse\repos\Building_Escape\escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-escape.lib"
