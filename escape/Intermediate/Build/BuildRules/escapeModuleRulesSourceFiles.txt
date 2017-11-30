@@ -1,3 +1,0 @@
-E:\Users\Andrew\Documents\UnrealCoarse\repos\Building_Escape\escape\Source\escape\escape.Build.cs
-E:\Users\Andrew\Documents\UnrealCoarse\repos\Building_Escape\escape\Source\escape.Target.cs
-E:\Users\Andrew\Documents\UnrealCoarse\repos\Building_Escape\escape\Source\escapeEditor.Target.cs
